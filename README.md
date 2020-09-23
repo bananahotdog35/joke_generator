@@ -8,3 +8,6 @@
 - `git commit -m "your message"` commit staged changes
 - ` git push` push your changes to remote repository
 - `git status` show status of local repository
+- `touch` creates a file
+- `mkdir`makes a new directory
+- `
