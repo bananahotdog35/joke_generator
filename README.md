@@ -11,3 +11,22 @@
 - `touch` creates a file
 - `mkdir`makes a new directory
 - `
+
+
+## accounts
+- `github` - use to manage projects
+
+
+
+## coding tools and programs
+- `vscode`
+- `iterm`
+- `homebrew`
+- `xcode`
+- `git`
+
+
+## project files
+- `HTML`
+- `css`
+- `js`
