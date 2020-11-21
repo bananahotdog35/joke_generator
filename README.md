@@ -30,3 +30,7 @@
 - `HTML`
 - `css`
 - `js`
+    - `jquery`
+
+## writing the webpage
+First we made our folders and files. Then we wrote in the folders and files. And then found jokes and uploaded them to the webpage. After that we created a button which later when we get the time will turn into a button that will generate a random joke and then after a second click when your ready it will tell you the answer. 
