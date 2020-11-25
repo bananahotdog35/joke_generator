@@ -1,9 +1,9 @@
 body {
-    background-color: chartreuse;
+    background-color: #9900ff;
 }
 
-#generate {
+.button {
 width: 20%;
-background-color: grey;
+background-color: rgb(25, 0, 255);
 border-radius: 25%;
 }
